@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Hemil](https://github.com/andreas-ra)
+- Place: Ahmedabad, India
+- Bio: Android, developer
+- GitHub: [HemilKumbhani](https://github.com/HemilKumbhani)
+
